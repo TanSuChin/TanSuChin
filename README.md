@@ -22,5 +22,5 @@
   <li><img src="https://flagcdn.com/w40/cn.png" width="20"> Chinese</li>
   <li><img src="https://flagcdn.com/w40/my.png" width="20"> Malay</li>
   <li><img src="https://flagcdn.com/w40/gb.png" width="20"> English</li>
-  <li><img src="https://flagcdn.com/w40/jp.png" width="20"> Japanese</li>
+  <!--<li><img src="https://flagcdn.com/w40/jp.png" width="20"> Japanese</li>-->
 </ul>
